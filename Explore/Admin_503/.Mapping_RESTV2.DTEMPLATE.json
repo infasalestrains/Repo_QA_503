@@ -16,14 +16,14 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
-        "contentType" : null,
+        "description" : "Testing adding comments to see if difference shows up in GitHub.",
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-09-24T21:20:25.720Z",
+  "updateTime" : "2024-09-24T21:25:16.275Z",
   "objectRefs" : [ {
     "id" : "lawaXPVZb0sdsIMQl0zik6",
     "name" : "IDMC_503_LocalCSVFile",
